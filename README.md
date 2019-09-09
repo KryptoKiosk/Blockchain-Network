@@ -1,4 +1,4 @@
-Creator and Main Maintainer Ben Delphin. Manger of Cyber security, IT and data communications for KryptoKiosk
+Creator/Builder and Main Maintainer Benjamin James Delphin. Manger of Cyber security, IT and data communications for KryptoKiosk© 2017
 
 # Create and Deploy the KryptoKiosk Blockchain Network using Hyperledger Fabric SDK Java
 
